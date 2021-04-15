@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonPindahActivity" type="id" />
+    <item name="buttonPindahActivityDenganData" type="id" />
+    <item name="buttonPindahActivityDenganObject" type="id" />
+    <item name="buttonDialNumber" type="id" />
+    <item name="buttonMaps" type="id" />
+    <item name="buttonShare" type="id" />
+    <item name="buttonSMS" type="id" />
+    <item name="buttonGetContachPhone" type="id" />
+    <item name="buttonPindahActivityUntukResult" type="id" />
+    <item name="textViewResult" type="id" />
+</resources>
